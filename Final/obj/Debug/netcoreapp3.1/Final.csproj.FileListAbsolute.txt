@@ -1,0 +1,4 @@
+C:\Users\gurwi\source\repos\Final\Final\obj\Debug\netcoreapp3.1\Final.csprojAssemblyReference.cache
+C:\Users\gurwi\source\repos\Final\Final\obj\Debug\netcoreapp3.1\Final.AssemblyInfoInputs.cache
+C:\Users\gurwi\source\repos\Final\Final\obj\Debug\netcoreapp3.1\Final.AssemblyInfo.cs
+C:\Users\gurwi\source\repos\Final\Final\obj\Debug\netcoreapp3.1\Final.csproj.CoreCompileInputs.cache
